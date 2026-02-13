@@ -1,7 +1,3 @@
-=# People Ops Starter Kit
-
-A comprehensive Notion-based system for managing core People Operations functions at scaling startups.
-
 ## 🎯 Overview
 
 This starter kit demonstrates a systematic approach to People Operations work, covering five interconnected areas:
